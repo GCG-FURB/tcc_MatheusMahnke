@@ -42,3 +42,38 @@ Mostrei o TCC do Jonathan, pois gostou por ser um material educacional e usar IU
 Outra opção seria extender o TCC do João.
 
 Vai decidir entre extender o TCC do João e o TCC do Jonathan.
+
+--------
+## reuniao_2020-03-11
+Mudou para o assunto de ensinar música .. alfabetização musical.
+
+#### Indiquei para leitura os TCCs:
+
+- Roberto Weege Junior: http://dsc.inf.furb.br/arquivos/tccs/monografias/2018_2_roberto-weege-junior_monografia.pdf
+- Paulo Felipe Piva dos Santos: http://dsc.inf.furb.br/arquivos/tccs/monografias/2019_2_paulo-felipe-piva-dos_monografia.pdf
+
+Mensagem do prof. de Música ___
+No campo da Educação Musical, especificamente, decorar alguns nomes para
+compreender a sutil diferença entre uma e outra posição da nota musical no
+diagrama, dependendo da clave e da tessitura utilizadas, é uma tarefa
+fundamental no processo de Alfabetização Musical do educando. Por outro lado, o
+número de analfabetos musicais no Brasil é estrondoso. Na verdade a
+Alfabetização Musical no Brasil, embora um país evidentemente musicalizado,
+ainda é um privilégio, uma espécie de eruditismo que separa músicos de músicos,
+apreciadores de apreciadores. Uma criança musicalmente alfabetizada certamente
+poderá apreciar com mais gosto uma peça musical, seja um funk ou uma opera.
+Neste sentido, ferramentas que auxiliem no processo de aprendizagem são sempre
+soluções interessantes.
+
+Solução:
+Criar um Game cuja missão do jogador seja acertar o nome das notas, dos
+tempos,dos elementos que compõem uma partitura, fase a fase, ajudando o educando
+a desenvolver o que chamamos de 'leitura à primeira vista'.
+
+Funcionalidades (exemplos de desafios):
+- Acertar o nome das Notas na Pauta (conforme a clave) 
+- Ouvir e Acertar a Divisão de Tempo
+- Ouvir e Acertar a Nota Musical 
+- Ouvir e Acertar o Intervalo -Ler e Acertar o Intervalo
+
+--------
