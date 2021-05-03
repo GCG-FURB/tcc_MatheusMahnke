@@ -1,5 +1,5 @@
 ## Banca: prof. Miguel
-## ![video](./tcc_MatheusMahnke_2021-05-03_PreProjeto_Defesa.mp4)
+## [video](./tcc_MatheusMahnke_2021-05-03_PreProjeto_Defesa.mp4)
 
 Inicio: 17:32
 
