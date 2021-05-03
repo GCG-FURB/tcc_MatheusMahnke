@@ -23,4 +23,4 @@ https://www.tecmundo.com.br/analise/52197-analise-drones-parrot-ar-2-0-limited-e
 --------
 #### 2021-05-03
 ##### Defesa Pré-projeto
-[Anotações de defesa do Pré-projeto] (./tcc_MatheusMahnke_2021-05-03_PreProjeto_Defesa.md)
+[Anotações de defesa do Pré-projeto](./tcc_MatheusMahnke_2021-05-03_PreProjeto_Defesa.md)
