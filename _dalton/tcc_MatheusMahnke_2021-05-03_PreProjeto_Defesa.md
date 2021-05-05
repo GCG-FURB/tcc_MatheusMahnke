@@ -2,7 +2,7 @@
 ## [video](./tcc_MatheusMahnke_2021-05-03_PreProjeto_Defesa.mp4)
 
 Inicio: 17:32<br>
-Fim: 17:43 -> 11 minutos
+Fim: 17:52
 
   - acúmulos de erros: movimento relativo
   - Compramos um Drone novo final de 2020: 5.180,00 (nota fiscal no Brasil)
