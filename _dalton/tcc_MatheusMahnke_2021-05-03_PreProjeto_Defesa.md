@@ -1,5 +1,8 @@
 ## Banca: prof. Miguel
 ## [video](./tcc_MatheusMahnke_2021-05-03_PreProjeto_Defesa.mp4)
+## [revisão banca Andreza](./tcc_MatheusMahnke_2021-05-03_PreProjeto_banca_Andreza.pdf)
+## [revisão banca Miguel](./tcc_MatheusMahnke_2021-05-03_PreProjeto_banca_Miguel.pdf)
+
 
 Inicio: 17:32<br>
 Fim: 17:52
