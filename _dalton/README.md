@@ -28,3 +28,24 @@ Drones:
 ### Defesa Pré-projeto
 
 [Anotações de defesa do Pré-projeto](./tcc_MatheusMahnke_2021-05-03_PreProjeto_Defesa.md)
+
+----
+
+## 2022-03-07
+
+Mencionou que comprou um Drone. Mas memso assim vai usar o drone do LIFE.  
+Falei para conversar com prof. Maurício para fazer emprestimo do Drone.  
+
+Pedi para fazer um esboço de como ficaria a arquitetura.  
+
+## 2022-03-14
+
+Chegou o Drone do orientando.  
+Vai esperar um pouco para pegar do LIFE (Maurício vai usar).  
+
+[Arquitetura](./arquitetura.svg "Arquitetura")  
+
+Vai trabalhar:
+
+- entender os comandos do Drone e tentar usar PC para comandar o drone.  
+- ligar placa com PC. Ver como processar imagem na placa.  
