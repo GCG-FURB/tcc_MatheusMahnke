@@ -49,3 +49,17 @@ Vai trabalhar:
 
 - entender os comandos do Drone e tentar usar PC para comandar o drone.  
 - ligar placa com PC. Ver como processar imagem na placa.  
+
+## 2022-03-21
+
+Estava fora da FURB e desmarquei a reunião:
+Oi Matheus Mahnke, estou num compromisso fora da FURB e não vou conseguir chegar a tempo para nossa reunião hoje.  
+Não te avisei antes porque estava na esperança de chegar a tempo .. estou em trânsito tentando chegar na FURB.  
+Bom, peço que me descreve rapidamente o que conseguisse fazer esta semana, e o que pretendes fazer para próxima semana.  
+E me avise se achas que devemos remarcar a nossa reunião ainda para esta semana, ou deixamos para conversar na próxima semana.  
+
+[17:31] Matheus Mahnke  
+Na semana passada foquei na engenharia reversa do app pra controlar o drone, consegui controlar por um emulador de android e interceptar as requisições pelo wireshark.Para essa semana vou tentar entender a comunicação que esta em chinês e tentar controlar o drone pelo python.  
+[17:32] Matheus Mahnke  
+Tenho em mente fazer isso, caso eu tenha muitos contra tempos ai marcamos uma call  
+
