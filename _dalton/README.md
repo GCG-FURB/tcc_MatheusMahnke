@@ -63,3 +63,11 @@ Na semana passada foquei na engenharia reversa do app pra controlar o drone, con
 [17:32] Matheus Mahnke  
 Tenho em mente fazer isso, caso eu tenha muitos contra tempos ai marcamos uma call  
 
+## 2022-04-18  
+
+<https://www.youtube.com/watch?v=8DISRmsO2YQ>
+
+Vai usar o DataSet exemplo .. depois pegar real.  
+decidir qual Drone usar (Drone3).  
+Vai fazer Deploy do Docker na placa (instalar o novo SO Rasq). --> nuvem de pontos.  
+--> Pedi para cuidar com o cronograma.  
