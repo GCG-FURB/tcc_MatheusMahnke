@@ -71,3 +71,7 @@ Vai usar o DataSet exemplo .. depois pegar real.
 decidir qual Drone usar (Drone3).  
 Vai fazer Deploy do Docker na placa (instalar o novo SO Rasq). --> nuvem de pontos.  
 --> Pedi para cuidar com o cronograma.  
+
+## 2022-04-25
+
+- problemas com código de reconhecimento do link para Placa
