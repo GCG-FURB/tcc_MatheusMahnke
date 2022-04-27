@@ -74,4 +74,6 @@ Vai fazer Deploy do Docker na placa (instalar o novo SO Rasq). --> nuvem de pont
 
 ## 2022-04-25
 
-- problemas com código de reconhecimento do link para Placa
+- problemas com código de reconhecimento do link para Placa  
+- Acho formas de contornoar o problema  
+- pedi para acelerar o desenvolvimento  
