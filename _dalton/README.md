@@ -77,3 +77,13 @@ Vai fazer Deploy do Docker na placa (instalar o novo SO Rasq). --> nuvem de pont
 - problemas com código de reconhecimento do link para Placa  
 - Acho formas de contornoar o problema  
 - pedi para acelerar o desenvolvimento  
+
+## 2022-05-09
+
+Aluno(a): Matheus Mahnke
+08/05/2022 23:26:44
+Horas trabalhadas: 320
+
+- Trocado a lib node-bebop em nodejs para pyparrot em python, visto que a forma de conexão dos comandos com a lib node-bebop só permite execução em uma única thread.  
+- Feito teste de carga com o carregador portátil acoplado ao drone.  
+- Inicio dos cenários de testes ainda sem utilizar GPS e visão computacional.  
