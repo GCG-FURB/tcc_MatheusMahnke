@@ -87,3 +87,20 @@ Horas trabalhadas: 320
 - Trocado a lib node-bebop em nodejs para pyparrot em python, visto que a forma de conexão dos comandos com a lib node-bebop só permite execução em uma única thread.  
 - Feito teste de carga com o carregador portátil acoplado ao drone.  
 - Inicio dos cenários de testes ainda sem utilizar GPS e visão computacional.  
+
+- comandos de voo  
+- dados dos sensores
+- já está carregando a placa e bateria
+    esta semana - NÃO GPS
+- NÃO Stream de video
+- cv2 -> OpenCV
+
+## 2022-05-23
+
+Relatório quinzenal aluno  
+23/05/2022  
+Horas trabalhadas: 380  
+
+- Atuando nos cenários de testes enolvendo GPS  
+- Troca do gps do drone por um modulo gps externo conectado ao raspberry pi  
+- Atuando no streaming de video para o raspberry pi  
