@@ -104,3 +104,25 @@ Horas trabalhadas: 380
 - Atuando nos cenários de testes enolvendo GPS  
 - Troca do gps do drone por um modulo gps externo conectado ao raspberry pi  
 - Atuando no streaming de video para o raspberry pi  
+
+## 2022-06-06
+
+Relatório quinzenal _ Horas trabalhadas: 440  
+
+- Instalado MiDaS pytorch no raspberry pi  
+- Realizado algoritmo de desvio de obstáculo  
+- Realizado testes do MiDaS no raspberry pi  
+- Realizado testes com peso no drone  
+
+Problemas com em ter acesso ao streamming de video do Drone e optou em usar uma placa ligada a placa IOT.
+No PC funciona, mas na placa IOT está com 15 segundos para cada novo frame.  
+
+A-GPS
+    3G
+    WIFI
+    GPS
+Problemas com pegar coordenadas do GPS, passei o tCC do WillliamLopes:  
+<http://dsc.inf.furb.br/arquivos/tccs/monografias/2019_2_william-lopes-da-silva_monografia.pdf>  
+<https://github.com/GCG-FURB/tcc_WilliamLopesSilva>  
+<http://dsc.inf.furb.br/arquivos/tccs/monografias/2020_1_diego-fachinello-correa_monografia.pdf>  
+<http://dsc.inf.furb.br/arquivos/tccs/monografias/2018_2_joao-paulo-serodio-goncalves_monografia.pdf>  
