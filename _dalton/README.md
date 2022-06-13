@@ -126,3 +126,10 @@ Problemas com pegar coordenadas do GPS, passei o tCC do WillliamLopes:
 <https://github.com/GCG-FURB/tcc_WilliamLopesSilva>  
 <http://dsc.inf.furb.br/arquivos/tccs/monografias/2020_1_diego-fachinello-correa_monografia.pdf>  
 <http://dsc.inf.furb.br/arquivos/tccs/monografias/2018_2_joao-paulo-serodio-goncalves_monografia.pdf>  
+
+## 2022-06-13
+
+Ainda está com problemas em obter a localização. Recebe em formato texto plano (nmem) e algumas linhas vem a lat/long, e algumas vem com valores zerados.  
+Vai fazer mais teste no software e fora de casa, numa região com uma visibildiade melhor para os satelítes.  
+A obtenção das imagens funciona mas continua com um atraso (na placa) de 15 segundos. Testes feitos no PC com o algoritmo de reconhecimento funciona.  
+Criou a estrutura do artigo (texto) e vai precisar escrver seções novas para a fundamentação teórica. Vai ter trocar um trabalho correlato.
