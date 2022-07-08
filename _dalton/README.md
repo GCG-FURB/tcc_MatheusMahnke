@@ -134,6 +134,6 @@ Vai fazer mais teste no software e fora de casa, numa região com uma visibildia
 A obtenção das imagens funciona mas continua com um atraso (na placa) de 15 segundos. Testes feitos no PC com o algoritmo de reconhecimento funciona.  
 Criou a estrutura do artigo (texto) e vai precisar escrver seções novas para a fundamentação teórica. Vai ter trocar um trabalho correlato.
 
-## 2022-07-06
+## 2022-07-06 DEFESA
 
 Material da defesa: [Anotações](tcc_MatheusMahnke_2022-07-06_banca_anotacoes.md "Anotações")  

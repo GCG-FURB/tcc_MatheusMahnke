@@ -9,7 +9,7 @@ Ver anotações no artigo: [Miguel](tcc_MatheusMahnke_2022-07-06_banca_Miguel.pd
 
 ## Péricas
 
-Ver anotações no artigo: 
+Ver anotações no artigo: [Pericas](tcc_MatheusMahnke_2022-07-06_banca_Pericas.pdf "Pericas")  
 
 ## Outros
 
