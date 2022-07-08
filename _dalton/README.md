@@ -133,3 +133,7 @@ Ainda está com problemas em obter a localização. Recebe em formato texto plan
 Vai fazer mais teste no software e fora de casa, numa região com uma visibildiade melhor para os satelítes.  
 A obtenção das imagens funciona mas continua com um atraso (na placa) de 15 segundos. Testes feitos no PC com o algoritmo de reconhecimento funciona.  
 Criou a estrutura do artigo (texto) e vai precisar escrver seções novas para a fundamentação teórica. Vai ter trocar um trabalho correlato.
+
+## 2022-07-06
+
+Material da defesa: [Anotações](tcc_MatheusMahnke_2022-07-06_banca_anotacoes.md "Anotações")  
