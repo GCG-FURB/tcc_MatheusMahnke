@@ -1,0 +1,37 @@
+## Instalação do sistema operacional raspibian no raspberry
+O tutorial abaixo mostra a instalação, junto com a configuração do wifi e do terminal ssh
+Pode ser configurado diretamente a wifi do drone
+https://randomnerdtutorials.com/installing-raspbian-lite-enabling-and-connecting-with-ssh/
+
+## Instalação do python versão 3.7
+Seguir o tutorial abaixo
+https://installvirtual.com/install-python-3-7-on-raspberry-pi/
+
+## Instalação repositorio pip
+apt-get install python-pip
+apt-get install python3-pip
+
+## Instalação do OpenCV para o uso no python
+Existem varias formas para fazer essa instalação, mas pode seguir o tutorial abaixo, caso não funcione deve ser instalado diretamente do repositório oficial do OpenCV
+https://www.jeremymorgan.com/tutorials/raspberry-pi/how-to-install-opencv-raspberry-pi/
+Para verificar se o OpenCV esta instalado use os comandos 
+python #(ou python3.7)
+import cv2
+Se não ocorrer nenhum erro significa que foi instalado com sucesso
+
+## Instalação do pytorch
+Não existe um build oficial do pytorch na arquitetura arm/v7.
+A primeira alternativa é instalar um build não oficial, seguindo o tutorial abaixo
+https://medium.com/secure-and-private-ai-writing-challenge/a-step-by-step-guide-to-installing-pytorch-in-raspberry-pi-a1491bb80531
+caso não funciona, instalar diretamente do repositório oficial do pytorch
+
+## Configuração do raspi camera
+Pode ser seguido o seguinte tutorial
+https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/0
+
+## Instalação do pyparrot
+pip install pyparrot
+
+Com tudo instalado, basta conectar n a
+Para rodar os arquivos da pasta Fonte basta executar com o python
+python main.py
